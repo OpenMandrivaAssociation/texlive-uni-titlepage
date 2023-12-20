@@ -1,6 +1,6 @@
 Name:		texlive-uni-titlepage
-Version:	64306
-Release:	2
+Version:	68917
+Release:	1
 Summary:	Universal titlepages with configuration options and predefined styles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uni-titlepage
