@@ -3,7 +3,7 @@ Version:	68917
 Release:	1
 Summary:	Universal titlepages with configuration options and predefined styles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uni-titlepage
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uni-titlepage
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uni-titlepage.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uni-titlepage.doc.r%{version}.tar.xz
